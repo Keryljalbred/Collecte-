@@ -102,15 +102,11 @@ Les logs générés quotidiennement par les serveurs doivent être :
 4. Mettre en forme les graphiques et ajouter des filtres dynamiques.
 5. Optionnel : programmer une **actualisation automatique** du fichier CSV.
 
----
-
-lla/5.0 ..."
-}
 
 📫 Contact
 Projet réalisé dans un cadre pédagogique.
 
-Auteur : [BJEUKOUA KERYL]
+Auteur : [DJEUKOUA KERYL]
 
 Email : [keryljk@gmail.com]
 
